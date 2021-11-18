@@ -1,5 +1,5 @@
-# Coffee example
-### This is the example that the professor went over during lecture 4
+# Coffee example:
+### This is the example that the professor went over during lecture 4;
 
     package lecture4;
     //change package name to your own package
